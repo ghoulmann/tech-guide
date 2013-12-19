@@ -17,11 +17,11 @@ TextAloud_
 ReadPlease_ 2003
 ----------------
 
-ReadPlease_ will read any text you see on your screen. This can be from your Browser, Email, Word processor, Spreadsheet or any program which displays text.
+ReadPlease_ will read any text you see on your screen. This can be from your browser, email, word processor, spreadsheet, or any program which displays text.
 
 * Was premium software, now unsupported and at end of life. Nevertheless, effective TTS software that the developers have been kind enough to offer offer a free registration code. 
-* Registration Name: READPLEASE
-* Registration Code: 939718100231563
+* Registration Name: **READPLEASE**
+* Registration Code: **939718100231563**
 * Direct Download:  https://sites.google.com/a/readerpal.com/readplease/home/SetupReadPlease2003.zip
 
 WriteType_
@@ -92,14 +92,17 @@ Homework and Agenda Apps
 
 Portfolios
 ----------
+
 * Mahara - keep a digital portfolio and build customizeable resumes
 
 Text to Speech
 --------------
+
 * Voice-Dream - extract from mutiple file types and has a dyslexia-friendly font
 
 Study Skills and Writing Apps
 -----------------------------
+
 * iThoughts - mindmapping app that helps with planning and organization and exports to PowerPoint or Word
 * Dictionary.com Flashcards - customizeable flashcards with pronunication and monitors progress
 * Dragon Dictation - speech-to-text app
