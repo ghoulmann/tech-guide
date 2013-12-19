@@ -1,0 +1,95 @@
+\begin{theindex}
+\def\bigletter#1{{\Large\sffamily#1}\nopagebreak\vspace{1mm}}
+
+  \bigletter A
+  \item accessibility, \hyperpage{15}
+  \item attendance, \hyperpage{9}
+
+  \indexspace
+  \bigletter C
+  \item CMS, \hyperpage{6}
+  \item courses, \hyperpage{6}
+  \item credentials, \hyperpage{6}
+
+  \indexspace
+  \bigletter D
+  \item departments, \hyperpage{6}
+
+  \indexspace
+  \bigletter G
+  \item grades, \hyperpage{9}
+  \item guardians, \hyperpage{9}
+
+  \indexspace
+  \bigletter H
+  \item helpdesk, \hyperpage{18}
+
+  \indexspace
+  \bigletter I
+  \item icons, \hyperpage{6}
+  \item IEP, \hyperpage{15}
+
+  \indexspace
+  \bigletter K
+  \item key, \hyperpage{6}
+  \item Kurzweil, \hyperpage{15}
+  \item Kurzweil 3000, \hyperpage{15}
+
+  \indexspace
+  \bigletter L
+  \item lexia, \hyperpage{12}
+  \item lexiareading, \hyperpage{12}
+  \item literacy, \hyperpage{12}, \hyperpage{15}
+  \item LMS, \hyperpage{6}
+  \item logging in, \hyperpage{6}
+  \item login, \hyperpage{6}
+
+  \indexspace
+  \bigletter M
+  \item moodle, \hyperpage{6}
+
+  \indexspace
+  \bigletter O
+  \item OSticket, \hyperpage{18}
+
+  \indexspace
+  \bigletter P
+  \item parents, \hyperpage{9}
+  \item passcode, \hyperpage{6}
+  \item password, \hyperpage{6}
+  \item Pearson, \hyperpage{9}
+  \item phonemic awareness, \hyperpage{12}
+  \item PowerSchool, \hyperpage{9}
+
+  \indexspace
+  \bigletter R
+  \item reading, \hyperpage{12}, \hyperpage{15}
+  \item records, \hyperpage{9}
+  \item reports, \hyperpage{9}
+
+  \indexspace
+  \bigletter S
+  \item SIS, \hyperpage{9}
+  \item students, \hyperpage{9}
+  \item study skills, \hyperpage{15}
+  \item support, \hyperpage{18}
+
+  \indexspace
+  \bigletter T
+  \item tech mobile, \hyperpage{18}
+  \item tech support, \hyperpage{18}
+  \item text to speech, \hyperpage{15}
+  \item transcripts, \hyperpage{9}
+  \item troubleshooting, \hyperpage{18}
+  \item TTS, \hyperpage{15}
+  \item tts, \hyperpage{15}
+
+  \indexspace
+  \bigletter V
+  \item visual, \hyperpage{6}
+
+  \indexspace
+  \bigletter W
+  \item writing, \hyperpage{15}
+
+\end{theindex}
